@@ -15,8 +15,12 @@
   },
   "dependencies": {
     "gatsby": "^2.25.3",
+    "i18next": "^19.8.3",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-xhr-backend": "^3.2.2",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-i18next": "^11.7.3"
   },
   "devDependencies": {
     "prettier": "2.1.2"
